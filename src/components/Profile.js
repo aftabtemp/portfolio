@@ -3,7 +3,7 @@ import 'tailwindcss/tailwind.css';
 
 const Profile = () => {
     const handleDownloadResume = () => {
-        const resumeUrl = 'https://drive.google.com/file/d/1G1tYJT5Yw5Pnu0zS82vtlLjmz94zz4Dr/view?usp=drive_link';
+        const resumeUrl = 'https://drive.google.com/file/d/1N0IoSGoR7VMNM0PBHJPSI-hbkplftzPo/view?usp=sharing';
         window.open(resumeUrl, '_blank');
     };
     return (
